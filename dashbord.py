@@ -41,7 +41,7 @@ fig.update_yaxes(title_text="<b>PLD</b> (R$/MMh)", secondary_y=True)
 # css
 app.layout = html.Div(children=[
 
-    #html.Img(src=r'assets/vale3.png', alt='image', width='650'),
+    html.Img(src=r'assets/vale3.png', alt='image', width='650'),
 
     # html.H1(children='RDH - IPDO - PLD', style={"text-align": "center"}),
 
